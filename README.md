@@ -6,7 +6,7 @@ Você escolhe o que aplicar, cada ajuste explica o que faz e indica o risco, e *
 
 ## Como usar
 
-1. Baixe o [`dist/breath.cmd`](dist/breath.cmd).
+1. Baixe o [`breath.cmd`](https://github.com/samu-lls/breath/releases/latest/download/breath.cmd) da [versão mais recente](https://github.com/samu-lls/breath/releases/latest).
 2. Dê dois cliques e aceite o pedido de administrador.
 3. Marque os ajustes (ou clique em **Recomendados**) e depois em **Aplicar**.
 4. Reinicie o PC.
